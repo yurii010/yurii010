@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**yurii010/yurii010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at Ternopil National Technical University, currently studying Software Engineering.
 
-Here are some ideas to get you started:
+### 💻 What I'm doing now:
+- 🌱 Actively learning **JavaScript**, **React**
+- 🎯 On my way to becoming a **Full Stack Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Goals:
+- Build real-world projects
+- Master both frontend and backend development
+
+### 📫 How to reach me:
+- 📧 Email: yuriinyshchota@gmail.com
+- 💬 Telegram: [purchikkk](https://t.me/purchikkk)
+- 💼 LinkedIn: [Yurii Nyshchota](https://www.linkedin.com/in/yurii-nyshchota-88ba7429a/)  
+  _You can find my full experience and background there._
