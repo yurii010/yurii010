@@ -3,8 +3,8 @@
 I'm a student at Ternopil National Technical University, currently studying Software Engineering.
 
 ### 💻 What I'm doing now:
-- 🌱 Actively learning **JavaScript**, **React**
-- 🎯 On my way to becoming a **Full Stack Developer**
+- 🌱 Actively learning **JavaScript**/**TypeScript**, **React**
+- 🎯 On my way to becoming a **Frontend Developer** and in the future **Full Stack Developer**
 
 ### 🚀 Goals:
 - Build real-world projects
