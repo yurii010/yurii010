@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ 
 I'm a student at Ternopil National Technical University, currently studying Software Engineering.
 
 ### 💻 What I'm doing now:
